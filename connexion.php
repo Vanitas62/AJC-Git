@@ -1,3 +1,3 @@
 <?php
-    echo "j'ai terminé la connexion";
+    echo "j'ai modifié la connexion";
 ?>
