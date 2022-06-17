@@ -1,3 +1,3 @@
 <?php
-    echo "j'ai terminé l'inscription";
+    echo "j'ai modifié l'inscription";
 ?>
